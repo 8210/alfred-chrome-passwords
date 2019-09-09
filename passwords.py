@@ -13,7 +13,7 @@ except ImportError:
   from urllib.parse import urlparse
 
 HOME = os.path.expanduser('~')
-CHROME = 'Library/Application Support/Google/Chrome'
+CHROME = 'Library/Application Support/Google/Chrome Canary'
 PROFILE = 'Default'
 LOGIN_DATA = 'Login Data'
 
